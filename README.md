@@ -1,16 +1,12 @@
-## Hi there 👋
+##👋 Hi, I'm Max
+🏫 high school student, tech enthusiast, and founder of MaksFix, my own computer repair and IT services brand.
+💻 I build websites, automate workflows, and create content around tech, repair, and productivity.
+🚀 Passionate about coding, freelancing, and helping others improve their digital life.
 
-<!--
-**toddowskii/toddowskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What I’m Working On:
+💼 MaksFix — local and remote computer services in Warsaw
+🌐 Web Projects — from personal sites to full-stack apps (HTML, CSS, JS, PHP, SQL)
+👥 yrslf — a community encouraging teens to grow through self-improvement
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect:
+[Instagram](https://www.instagram.com/toddowskii/)
