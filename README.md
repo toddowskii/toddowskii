@@ -1,5 +1,6 @@
 ##👋 Hi, I'm Max
-🏫 high school student, tech enthusiast, and founder of MaksFix, my own computer repair and IT services brand.
+
+🏫 High school student, tech enthusiast, and founder of MaksFix, my own computer repair and IT services brand.
 💻 I build websites, automate workflows, and create content around tech, repair, and productivity.
 🚀 Passionate about coding, freelancing, and helping others improve their digital life.
 
@@ -10,3 +11,4 @@
 
 📫 Let’s connect:
 [Instagram](https://www.instagram.com/toddowskii/)
+[Linkedin](https://www.linkedin.com/in/maksymilian-kwiatkowski-9370562a1/)
