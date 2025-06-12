@@ -16,7 +16,7 @@
 👥 yrslf — a community encouraging teens to grow through self-improvement
 
 📫 Let’s connect:
-[Instagram](https://www.instagram.com/toddowskii/)
+[Instagram](https://www.instagram.com/mlodykhan/)
 [Linkedin](https://www.linkedin.com/in/maksymilian-kwiatkowski-9370562a1/)
 
 
