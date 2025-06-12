@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Max
 
-🏫 High school student, tech enthusiast, and founder of MaksFix, my own computer repair and IT services brand.
+🏫 High school student, tech enthusiast, and founder of MaksFix, my own computer repair and IT services company.
 
 💻 I build websites, automate workflows, and create content around tech, repair, and productivity.
 
