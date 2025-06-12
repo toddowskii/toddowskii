@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Max
+## 👋 Hi, I'm Maks
 
 🏫 High school student, tech enthusiast, and founder of MaksFix, my own computer repair and IT services company.
 
