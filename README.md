@@ -1,3 +1,5 @@
+## Hi, im Maks 👋
+
 🏫 High school student, tech enthusiast, and founder of BeBusy — a platform designed to help teens showcase their skills, offer services, and find real opportunities.
 
 💻 I focus on building scalable web solutions, automating workflows, and creating content around tech, productivity, and entrepreneurship.
