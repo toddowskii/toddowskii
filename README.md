@@ -8,7 +8,7 @@
 
 💡 What I’m Working On:
 
-📢 BeBusy — building a growing platform for under-18s to post services, collaborate, and get discovered
+📢 BeBusy — building a platform for under-18s to post collaborate, help eachother and get discovered
 
 🌐 Web Projects — creating interactive sites and full-stack apps (HTML, CSS, JS, PHP, SQL) to bring ideas to life
 
