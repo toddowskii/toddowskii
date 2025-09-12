@@ -1,19 +1,15 @@
-## 👋 Hi, I'm Maks
+🏫 High school student, tech enthusiast, and founder of BeBusy — a platform designed to help teens showcase their skills, offer services, and find real opportunities.
 
-🏫 High school student, tech enthusiast, and founder of MaksFix, my own computer repair and IT services company.
+💻 I focus on building scalable web solutions, automating workflows, and creating content around tech, productivity, and entrepreneurship.
 
-💻 I build websites, automate workflows, and create content around tech, repair, and productivity.
-
-🚀 Passionate about coding, freelancing, and helping others improve their digital life.
-
+🚀 Passionate about startups, coding, and helping young people turn their skills into something real.
 
 💡 What I’m Working On:
 
-💼 MaksFix — local and remote computer services in Warsaw
+📢 BeBusy — building a growing platform for under-18s to post services, collaborate, and get discovered
 
-🌐 Web Projects — from personal sites to full-stack apps (HTML, CSS, JS, PHP, SQL)
+🌐 Web Projects — creating interactive sites and full-stack apps (HTML, CSS, JS, PHP, SQL) to bring ideas to life
 
-👥 yrslf — a community encouraging teens to grow through self-improvement
 
 📫 Let’s connect:
 [Instagram](https://www.instagram.com/mlodykhan/)
