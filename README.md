@@ -8,7 +8,7 @@
 
 💡 What I’m Working On:
 
-📢 BeBusy — is a mobile-first social network designed to connect, inspire, and support teenage entrepreneurs.
+📢 BeBusy — is a social network designed to connect, inspire, and support teenage entrepreneurs.
 
 🌐 Web Projects — creating interactive sites and full-stack apps (HTML, CSS, JS, PHP, SQL) to bring ideas to life
 
