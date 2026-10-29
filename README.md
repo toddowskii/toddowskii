@@ -1,24 +1,48 @@
-## Hi, I'm Maks 👋
+# Hi, I'm Maks 👋
 
-🏫 High school student and tech enthusiast focused on building scalable products, automating workflows, and turning ideas into real businesses.
+🏫 Student at Technikum Elektroniczne No. 3 in Warsaw (**Programming Technician** track, graduating 2027) and a tech enthusiast. I build products from idea to deployment and automate whatever can be automated.
 
-💻 I work mostly with modern web technologies like Next.js, React, TypeScript, Supabase, and full-stack SaaS development.
+🔎 **Looking for my first job / internship** as a Junior Full-Stack Developer, Junior Frontend Developer (React + TypeScript), or Junior AI / LLM Integration Developer. Open to remote work.
 
-🚀 Passionate about coding, startups, SaaS, AI automation, productivity systems, and building products that solve real problems.
+---
 
-💡 What I’m Working On:
+## 🛠️ What I've built
 
-🔥 TrainerOS — a B2B SaaS platform for personal trainers focused on simplifying client management, payments, scheduling, and communication in one system.
+### 🤖 MCP integrations (R&D internship, Bonnier Business Polska)
+During my internship I designed and deployed MCP servers connecting AI models with company tools:
+- **PostgreSQL** – querying databases directly from AI
+- **GitLab** – working with repositories and tasks
+- **Figma** – access to design projects
+- **Zabbix** – infrastructure monitoring
 
-Currently building the MVP with React, Next.js, Supabase, and automation tools.
+These solutions run in production and are used by the team. Tooling: Gemini CLI.
 
-🌐 Web Projects — creating modern full-stack applications and interactive web experiences using Next.js, React, TypeScript, Tailwind, Supabase, and scalable backend architectures.
+### 🌐 BeBusy – a social platform for young entrepreneurs
+A full-stack product built solo with **Next.js, TypeScript, and Tailwind CSS**, hosted on Vercel.
+👉 [bebusy-web.vercel.app](https://bebusy-web.vercel.app)
 
-📫 Let’s connect:
-[Instagram](https://www.instagram.com/mlodykhan/)
-[Linkedin](https://www.linkedin.com/in/maksymilian-kwiatkowski-9370562a1/)
+### 🎨 Landing pages (demos)
+A set of modern, responsive landing pages for different industries:
+- 🔧 **Local services** – [demo](https://toddowskii.github.io/local-service-landing) · [code](https://github.com/toddowskii/local-service-landing)
+- ⛺ **Camping reservations** – [demo](https://toddowskii.github.io/camping-reservation-landing) · [code](https://github.com/toddowskii/camping-reservation-landing)
+- 💪 **Personal trainer** – [demo](https://toddowskii.github.io/trainer-landing) · [code](https://github.com/toddowskii/trainer-landing)
+- 🍽️ **Restaurant** – [demo](https://toddowskii.github.io/restaurant-landing) · [code](https://github.com/toddowskii/restaurant-landing)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=toddowskii&theme=dark)](https://git.io/streak-stats)
+---
+
+## 💻 Tech stack
+
+| Area | Technologies |
+|---|---|
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML/CSS |
+| Backend / DB | Supabase, PostgreSQL, MySQL, PHP, C# / ASP.NET |
+| AI | LLM integrations, MCP servers, automation |
+| DevOps | Docker, Kubernetes, Git, Linux, Vercel, Cloudflare Pages |
+
+---
+
+## 🚀 What I'm looking for
+A team where I can grow as a full-stack developer (React/Next.js, TypeScript, databases) and work on AI integrations, while delivering real solutions from day one.
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/maksymilian-kwiatkowski-9370562a1)
